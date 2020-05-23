@@ -5,11 +5,14 @@
 /.pnp
 .pnp.js
 
+# production
+/build
+
 # testing
 /coverage
 
-# production
-/build
+# plataforma
+/android
 
 # plataforma
 /android
